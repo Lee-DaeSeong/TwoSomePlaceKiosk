@@ -1,0 +1,9 @@
+src/image/블루베리 요거트 드링크.jpg
+src/image/플레인 요거트 드링크.jpg
+src/image/로얄 밀크티 쉐이크.jpg
+src/image/스트로베리 피치 프라페.jpg
+src/image/제주 말차 프라페.jpg
+src/image/카라멜 커피 프라페.jpg
+src/image/고구마 라떼.jpg
+src/image/몽블랑 밤 라떼.jpg
+src/image/아이스 쑥 라떼.jpg
